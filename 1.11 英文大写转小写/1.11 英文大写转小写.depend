@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663487343 source:c:\users\nanfei\documents\文件\#学习c语言\1.11 英文大写转小写\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

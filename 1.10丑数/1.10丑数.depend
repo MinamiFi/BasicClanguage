@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663485075 source:c:\users\nanfei\documents\文件\#学习c语言\1.10丑数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
